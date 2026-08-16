@@ -121,6 +121,7 @@ Rather than building another generic chatbot or classification application, the 
 
 # 🔄 Complete Workflow
 <img width="1567" height="743" alt="image" src="https://github.com/user-attachments/assets/6f3e0bcb-8ec9-41ba-a1f3-581130c73a23" />
+<img width="1077" height="833" alt="image" src="https://github.com/user-attachments/assets/2c692e7c-9a01-4de5-9f20-7b5d5a449078" />
 <img width="1547" height="673" alt="image" src="https://github.com/user-attachments/assets/b950647b-a680-40c6-b8a7-8d461c15a4f7" />
 <img width="1807" height="802" alt="image" src="https://github.com/user-attachments/assets/29acc18c-09e0-466b-a6c7-046e0b1d5e49" />
 
